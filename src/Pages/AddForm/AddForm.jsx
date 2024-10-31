@@ -45,7 +45,7 @@ function AddForm({ setCustomers }) {
         <div className="mb-5">
           <label
             htmlFor="email"
-            className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+            className="block mb-2 text-sm font-medium text-gray-900 dark:text-black"
           >
             Your Email
           </label>
@@ -71,7 +71,7 @@ function AddForm({ setCustomers }) {
         <div className="mb-5">
           <label
             htmlFor="name"
-            className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+            className="block mb-2 text-sm font-medium text-gray-900 dark:text-black"
           >
             Your Name
           </label>
@@ -95,7 +95,7 @@ function AddForm({ setCustomers }) {
         <div className="mb-5">
           <label
             htmlFor="number"
-            className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+            className="block mb-2 text-sm font-medium text-gray-900 dark:text-black"
           >
             Your Number
           </label>
@@ -121,7 +121,7 @@ function AddForm({ setCustomers }) {
         <div className="mb-5">
           <label
             htmlFor="age"
-            className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+            className="block mb-2 text-sm font-medium text-gray-900 dark:text-blacke"
           >
             Your Age
           </label>
